@@ -21,13 +21,12 @@ Refractor existing code to meet website accessibility requirements and optimize 
 
 - Added descriptive alt attributes to the images
 
-- Modified the page footer
+- Modified the page footer.
 
 
 ## Work Done CSS
 
-*
-The CSS file didn't need much modifying to the code itself to be functional, but it was heavily bloated and disorganized. This took a lot of time and research to clean up while retaining functionality. In the process I took the liberty of enhancing the stylesheet with various effets to improve the look of the website, but mainly just to practice more advanced css elements for my own development.  *
+The CSS file didn't need much modifying to the code itself to be functional, but it was heavily bloated and disorganized. This took a lot of time and research to clean up while retaining functionality. In the process I took the liberty of enhancing the stylesheet with various effets to improve the look of the website, but mainly just to practice more advanced css elements for my own development.  
 
 - Simplified all the redundant element and class rules into one for each group that shared the same attributes
 
@@ -36,9 +35,12 @@ The CSS file didn't need much modifying to the code itself to be functional, but
 
 ## Application Screenshot & Deployment
 
-![Screenshot](01-Week-Homework\assets\images\01-Week-Homework_index.html.png)
+![Screenshot of website](./assets/images/01-Week-Homework_index.html.png)
 
 Repository uploaded to [GitHub](
 https://github.com/scgilmore87/01-Week-Homework)
 
 View The final deployed project [Website Here](https://scgilmore87.github.io/01-Week-Homework/)
+
+
+&copy; Stephen C. Gilmore 2022
