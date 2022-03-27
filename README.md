@@ -34,10 +34,11 @@ The CSS file didn't need much modifying to the code itself to be functional, but
 - Organized rules to follow cascading priority rules in the order of Element rules first, class selector rules, and id selector rules.  
 
 
-## Application Deployment
+## Application Screenshot & Deployment
 
-Repository uploaded to [GitHub] @
-https://github.com/scgilmore87/01-Week-Homework
+![Screenshot](01-Week-Homework\assets\images\01-Week-Homework_index.html.png)
 
-The final deployed project URL @ 
-https://scgilmore87.github.io/01-Week-Homework/
+Repository uploaded to [GitHub](
+https://github.com/scgilmore87/01-Week-Homework)
+
+View The final deployed project [Website Here](https://scgilmore87.github.io/01-Week-Homework/)
