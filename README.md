@@ -26,12 +26,18 @@ Refractor existing code to meet website accessibility requirements and optimize 
 
 ## Work Done CSS
 
-<!--
-The CSS file didn't need much modifying to the code itself to be functional, but it was heavily bloated and disorganized. This took a lot of time and research to clean up while retaining functionality. In the process I took the liberty of enhancing the stylesheet with various effets to improve the look of the website, but mainly just to practice more advanced css elements for my own development.  -->
+*
+The CSS file didn't need much modifying to the code itself to be functional, but it was heavily bloated and disorganized. This took a lot of time and research to clean up while retaining functionality. In the process I took the liberty of enhancing the stylesheet with various effets to improve the look of the website, but mainly just to practice more advanced css elements for my own development.  *
 
 - Simplified all the redundant element and class rules into one for each group that shared the same attributes
 
 - Organized rules to follow cascading priority rules in the order of Element rules first, class selector rules, and id selector rules.  
 
 
-## Application Installation 
+## Application Deployment
+
+Repository uploaded to [GitHub] @
+https://github.com/scgilmore87/01-Week-Homework
+
+The final deployed project URL @ 
+https://scgilmore87.github.io/01-Week-Homework/
