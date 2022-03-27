@@ -20,9 +20,7 @@ p {
     font-size: 16px;
 }
 
-
 /* ----- HEADER SECTION ----- */
-
 .header {    /* Header formatting */
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -73,9 +71,7 @@ p {
     background-position: center;
 }
 
-
 /* ----- MAIN CONTENT ----- */
-
 .content {   /* Main content formatting */
     width: 75%;
     display: inline-block;
@@ -145,9 +141,6 @@ p {
 
 }
 
-
-
-
 /* ----- ADDITIONAL CONTENT ----- */
 
 .benefits {   /* Additional content section formatting */
@@ -186,7 +179,6 @@ p {
     margin: 10px auto;
     max-width: 119px;
 }
-
 
 /* --------- FOOTER SECTION --------- */
 
